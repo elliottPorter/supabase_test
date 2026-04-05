@@ -1,4 +1,4 @@
-*/node_modules
+**/node_modules
 
 workspace/
 **/.cache/
@@ -6,6 +6,7 @@ workspace/
 **/public/build
 /playground
 **/tsconfig.tsbuildinfo
+**/.env
 
 # in a real app you'd want to not commit the .env
 # file as well, but since this is for a workshop
