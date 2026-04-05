@@ -7,5 +7,6 @@
     "paths": {
       "@/*": ["./*"]
       // or "@/*": ["src/*"] if your code is under /src
+    }
   }
 }
